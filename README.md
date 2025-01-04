@@ -11,7 +11,7 @@ make
 ## Generating Coverage Report
 
 ```
-make coverate-html
+make coverage-html
 open _coverage/coverage.html
 ```
 
